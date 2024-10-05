@@ -12,4 +12,4 @@ This project generates personalized travel itineraries for users based on their 
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/MayankGhatawal/Shaarthi-Assignment.git>
+   git clone https://github.com/MayankGhatawal/Shaarthi-Assignment.git
